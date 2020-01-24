@@ -11,6 +11,5 @@ public enum Zanr {
     SCIFI,
     TRILER,
     VESTERN;
-
     Zanr(){ }
 }

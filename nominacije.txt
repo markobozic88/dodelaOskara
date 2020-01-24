@@ -1,0 +1,43 @@
+
+IZVESTAJ NOMINACIJA
+
+Nominovani za musku ulogu su:
+Glumac:
+Ime: Nebojsa, Prezime: Glogovac, Datum rodjenja: 1969-08-30, Pol: MUSKIIma lep glas: true
+Glumac:
+Ime: Petar, Prezime: Bozovic, Datum rodjenja: 1946-05-22, Pol: MUSKIIma lep glas: true
+
+Nominovani za zensku ulogu su:
+Glumac:
+Ime: Vesna, Prezime: Trivalic, Datum rodjenja: 1965-03-13, Pol: ZENSKIIma lep glas: true
+Glumac:
+Ime: Neda, Prezime: Arneric, Datum rodjenja: 1953-07-15, Pol: ZENSKIIma lep glas: false
+
+Nominovani za rezisera su:
+
+Reziser - Ime: Soja, Prezime: Jovanović, Datum rodjenja: 1922-02-01, Pol: ZENSKI, Broj reziranih filmova: 31
+
+Reziser - Ime: Emir, Prezime: Kusturica, Datum rodjenja: 1954-11-24, Pol: MUSKI, Broj reziranih filmova: 27
+
+Reziser - Ime: Branka, Prezime: Bešević-Gajić, Datum rodjenja: 1982-09-18, Pol: ZENSKI, Broj reziranih filmova: 17
+
+Reziser - Ime: Srdjan, Prezime: Dragojevic, Datum rodjenja: 1963-01-01, Pol: MUSKI, Broj reziranih filmova: 17
+
+Reziser - Ime: Ognjenka, Prezime: Milićević, Datum rodjenja: 1927-12-26, Pol: ZENSKI, Broj reziranih filmova: 9
+
+Nominovanije za najbolji film su:
+
+Film - Naziv: Sveta Kumanica, Godina: 2016, Trajanje: 100, Rejting: 4.27
+Reziser - Ime: Branka, Prezime: Bešević-Gajić, Datum rodjenja: 1982-09-18, Pol: ZENSKI, Broj reziranih filmova: 17
+
+Film - Naziv: Oh, divljino, Godina: 1967, Trajanje: 91, Rejting: 4.27
+Reziser - Ime: Ognjenka, Prezime: Milićević, Datum rodjenja: 1927-12-26, Pol: ZENSKI, Broj reziranih filmova: 9
+
+Film - Naziv: Kod zelenog papagaja, Godina: 1969, Trajanje: 75, Rejting: 4.01
+Reziser - Ime: Soja, Prezime: Jovanović, Datum rodjenja: 1922-02-01, Pol: ZENSKI, Broj reziranih filmova: 31
+
+Film - Naziv: Maradona, Godina: 2008, Trajanje: 90, Rejting: 2.97
+Reziser - Ime: Emir, Prezime: Kusturica, Datum rodjenja: 1954-11-24, Pol: MUSKI, Broj reziranih filmova: 27
+
+Film - Naziv: Sveti Mardarije vladika bez adrese, Godina: 2019, Trajanje: 95, Rejting: 2.31
+Reziser - Ime: Branka, Prezime: Bešević-Gajić, Datum rodjenja: 1982-09-18, Pol: ZENSKI, Broj reziranih filmova: 17
